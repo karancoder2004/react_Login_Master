@@ -3,7 +3,7 @@ import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Account from "./pages/Account";
 import Navbar from "./components/Navbar";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 function App() {
   const [showLogin, setShowLogin] = useState(true);
