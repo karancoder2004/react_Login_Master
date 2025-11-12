@@ -1,4 +1,3 @@
-import React from 'react'
 
 const Footer = () => (
   <footer className="bg-linear-to-b from-cyan-400 to-cyan-200 shadow-sm h-12">
